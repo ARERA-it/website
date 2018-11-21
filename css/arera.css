@@ -1,0 +1,20 @@
+.immagine-fondo {
+  background: url('../assets/img/powerline2.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header .media-body .display-3 {
+  font-size: 3rem;
+}
+.header .media-body small {
+  font-size: 1.1rem;
+}
+.grey {
+  color: #333;
+}
+.display-5 {
+  font-size: 1rem;
+}
